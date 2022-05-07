@@ -1,4 +1,7 @@
+      LINUX
 linux commands - https://www.softcover.io/read/fc6c09de/unix_commands/basics
+      
+      GIT
 git remote -v // Display the repository url from GitHub
 git status // Verify stage status of file
 git add // Add file to the stage "waiting room"
@@ -7,3 +10,7 @@ git commit -m "Add hello_world.txt" // Add description for the updates
 git log // Check the status if the commit was made
 git push // Upload the repos on GitHub
 https://www.theodinproject.com/lessons/foundations-git-basics
+      
+      HTML
+w3school html validator https://validator.w3.org/
+<!--- Comments in html -->
